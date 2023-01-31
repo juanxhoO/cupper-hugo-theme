@@ -48,7 +48,7 @@ Hugo version `0.81.0` or higher is required. View the [Hugo releases](https://gi
 From the root of your site:
 
 ```
-git submodule add https://github.com/zwbetz-gh/cupper-hugo-theme.git themes/cupper-hugo-theme
+git submodule add https://github.com/juanxhoO/cupper-hugo-theme.git themes/cupper-hugo-theme
 ```
 
 ## Updating
@@ -69,7 +69,7 @@ hugo server --themesDir ../..
 
 ## Configuration
 
-Copy `config.yaml` from the [`exampleSite`](https://github.com/zwbetz-gh/cupper-hugo-theme/tree/master/exampleSite), then edit as desired.
+Copy `config.yaml` from the [`exampleSite`](https://github.com/juanxhoO/cupper-hugo-theme/tree/master/exampleSite), then edit as desired.
 
 ## Nav Title or Logo
 
